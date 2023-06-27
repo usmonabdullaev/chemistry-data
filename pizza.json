@@ -1,0 +1,352 @@
+[
+  {
+    "id": 1,
+    "rating": 3,
+    "title": "Margherita",
+    "price": 13.34,
+    "imageUrl": "https://lastmen.ru/wp-content/uploads/2022/07/pitstsa-margarita-1024x683.jpg"
+  },
+  {
+    "id": 2,
+    "rating": 3,
+    "title": "Marinara",
+    "price": 5.99,
+    "imageUrl": "https://lastmen.ru/wp-content/uploads/2022/07/pitstsa-marinara.jpg"
+  },
+  {
+    "id": 3,
+    "rating": 4,
+    "title": "Quattro Stagioni",
+    "price": 24.00,
+    "imageUrl": "https://lastmen.ru/wp-content/uploads/2022/07/pitstsa-4-sezona.jpg"
+  },
+  {
+    "id": 4,
+    "rating": 4,
+    "title": "Carbonara",
+    "price": 8.35,
+    "imageUrl": "https://lastmen.ru/wp-content/uploads/2022/07/pitstsa-karbonara.jpg"
+  },
+  {
+    "id": 5,
+    "rating": 5,
+    "title": "Frutti di Mare",
+    "price": 45.00,
+    "imageUrl": "https://cdn.tasteatlas.com/images/dishes/2475b8aa94c1463dbe9dc17e0f38a063.jpg"
+  },
+  {
+    "id": 6,
+    "rating": 4,
+    "title": "Quattro Formaggi",
+    "price": 3.85,
+    "imageUrl": "https://lastmen.ru/wp-content/uploads/2022/07/pitstsa-chetyre-syra.jpg"
+  },
+  {
+    "id": 7,
+    "rating": 4,
+    "title": "Crudo",
+    "price": 22.00,
+    "imageUrl": "https://lastmen.ru/wp-content/uploads/2022/07/pitstsa-krudo.jpg"
+  },
+  {
+    "id": 8,
+    "rating": 5,
+    "title": "Napoletana",
+    "price": 25.00,
+    "imageUrl": "https://lastmen.ru/wp-content/uploads/2022/07/pitstsa-neapolitanskaya.jpg"
+  },
+  {
+    "id": 9,
+    "rating": 5,
+    "title": "Pugliese",
+    "price": 38.00,
+    "imageUrl": "https://lastmen.ru/wp-content/uploads/2022/07/po-angliyski.jpg"
+  },
+  {
+    "id": 10,
+    "rating": 4,
+    "title": "Montanara",
+    "price": 14.00,
+    "imageUrl": "https://img.atlasobscura.com/axbZCr1BkeAfs8JkgfTJ6YhuwsiBohhXYd9ibDsIDMs/rs:fill:1160:1160:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3RoaW5n/X2ltYWdlcy82YzMz/YWM2YS1iMTljLTQ0/Y2ItYjExNy05YTMx/OGQ5NmE3ZGRmMWU5/OTg5YjcwYjgxYjJm/ZjRfNDA4MTM3MDFf/MjMyOTgzMjA3Mzcw/MDkyMF84NDI1ODcz/NjQyNDQyNTU5Nzg0/X24uanBn.jpg"
+  },
+  {
+    "id": 11,
+    "rating": 4,
+    "title": "Emiliana",
+    "price": 33.00,
+    "imageUrl": "https://lastmen.ru/wp-content/uploads/2022/07/pitstsa-emiliana.jpg"
+  },
+  {
+    "id": 12,
+    "rating": 5,
+    "title": "Romana",
+    "price": 316.80,
+    "imageUrl": "https://lastmen.ru/wp-content/uploads/2022/07/pitstsa-rimskaya-1024x687.jpg"
+  },
+  {
+    "id": 13,
+    "rating": 4,
+    "title": "Fattoria",
+    "price": 25.00,
+    "imageUrl": "https://guide.pizza/wp-content/uploads/2022/12/fattoria-pizza-italy-958x575.jpg"
+  },
+  {
+    "id": 14,
+    "rating": 4,
+    "title": "Schiacciata",
+    "price": 35.00,
+    "imageUrl": "https://lastmen.ru/wp-content/uploads/2022/07/skyachchata.jpg"
+  },
+  {
+    "id": 15,
+    "rating": 5,
+    "title": "Prosciutto",
+    "price": 4.00,
+    "imageUrl": "https://www.thespruceeats.com/thmb/O-Zm7K7kWpNJyX1O0U7KNH4cB2c=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/prosciutto-pizza-4844358-hero-04-c0a6f73057ce4fed88982b75a5c2c8e1.jpg"
+  },
+  {
+    "id": 16,
+    "rating": 4,
+    "title": "Americana",
+    "price": 11.55,
+    "imageUrl": "https://lastmen.ru/wp-content/uploads/2022/07/pitstsa-amerikana.jpg"
+  },
+  {
+    "id": 17,
+    "rating": 3,
+    "title": "Prosciutto e Funghi",
+    "price": 21.0,
+    "imageUrl": "https://i1.wp.com/www.piccolericette.net/piccolericette/wp-content/uploads/2019/10/4102_Pizza.jpg"
+  },
+  {
+    "id": 18,
+    "rating": 4,
+    "title": "Braccio di Ferro",
+    "price": 24.00,
+    "imageUrl": "https://lastmen.ru/wp-content/uploads/2022/07/papayya-1024x576.jpg"
+  },
+  {
+    "id": 19,
+    "rating": 4,
+    "title": "Sarda",
+    "price": 16.00,
+    "imageUrl": "https://www.silviocicchi.com/pizzachef/wp-content/uploads/2015/12/pizza-sarda-300x225.jpg"
+  },
+  {
+    "id": 20,
+    "rating": 4,
+    "title": "Tonno",
+    "price": 9.00,
+    "imageUrl": "https://lastmen.ru/wp-content/uploads/2022/07/tonno.jpg"
+  },
+  {
+    "id": 21,
+    "rating": 4,
+    "title": "Valtellina",
+    "price": 10.00,
+    "imageUrl": "https://lastmen.ru/wp-content/uploads/2022/07/valtellina.jpg"
+  },
+  {
+    "id": 22,
+    "rating": 4,
+    "title": "Gorgonzola",
+    "price": 7.29,
+    "imageUrl": "https://www.sainsburysmagazine.co.uk/uploads/media/720x770/00/5530-MushroomGorgonzolaPizza1120.jpg"
+  },
+  {
+    "id": 23,
+    "rating": 4,
+    "title": "Calzone",
+    "price": 1.00,
+    "imageUrl": "https://lastmen.ru/wp-content/uploads/2022/07/pitstsa-kon-li-kotstse.jpg"
+  },
+  {
+    "id": 24,
+    "rating": 5,
+    "title": "Pizza al Pesto",
+    "price": 12.99,
+    "imageUrl": "https://www.pinsarella.com/wp-content/uploads/2021/01/Pizza_Theme_Photos-3336-800x530.jpg"
+  },
+  {
+    "id": 25,
+    "rating": 4,
+    "title": "Mediterranea",
+    "price": 18.00,
+    "imageUrl": "https://lastmen.ru/wp-content/uploads/2022/07/pitstsa-sredizemnomorskaya.jpg"
+  },
+  {
+    "id": 26,
+    "rating": 3,
+    "title": "Ortolana",
+    "price": 15.95,
+    "imageUrl": "https://lastmen.ru/wp-content/uploads/2022/07/ortalana.jpg"
+  },
+  {
+    "id": 27,
+    "rating": 1,
+    "title": "Diavola",
+    "price": 345.60,
+    "imageUrl": "https://lastmen.ru/wp-content/uploads/2022/07/pitstsa-diablo.jpg"
+  },
+  {
+    "id": 28,
+    "rating": 5,
+    "title": "Rustica",
+    "price": 15.00,
+    "imageUrl": "https://www.insidetherustickitchen.com/wp-content/uploads/2021/03/Pizza-Rustica-1200px-Inside-the-Rustic-Kitchen-4-1025x1536.jpg"
+  },
+  {
+    "id": 29,
+    "rating": 4,
+    "title": "Contadina",
+    "price": 17.99,
+    "imageUrl": "https://nizza.ro/wp-content/uploads/2021/02/contadina-416x304.jpg"
+  },
+  {
+    "id": 30,
+    "rating": 5,
+    "title": "Parmigiana",
+    "price": 16.00,
+    "imageUrl": "https://lastmen.ru/wp-content/uploads/2022/07/pitstsa-primavere-1024x768.jpg"
+  },
+  {
+    "id": 31,
+    "rating": 4,
+    "title": "Capricciosa",
+    "price": 21.00,
+    "imageUrl": "https://lastmen.ru/wp-content/uploads/2022/07/pitstsa-kaprichioza-1024x696.jpg"
+  },
+  {
+    "id": 32,
+    "rating": 1,
+    "title": "Ricotta e Spinaci",
+    "price": 33.00,
+    "imageUrl": "https://lastmen.ru/wp-content/uploads/2022/07/pitstsa-regina.jpg"
+  },
+  {
+    "id": 33,
+    "rating": 5,
+    "title": "Mare e Monti",
+    "price": 8.95,
+    "imageUrl": "https://cdn.tasteatlas.com/images/dishes/4ac836f2bff04532a49742d9ea1c88d9.jpg"
+  },
+  {
+    "id": 34,
+    "rating": 3,
+    "title": "Padana",
+    "price": 1.07,
+    "imageUrl": "https://lastmen.ru/wp-content/uploads/2022/07/padana.jpg"
+  },
+  {
+    "id": 35,
+    "rating": 3,
+    "title": "Tedesca",
+    "price": 35.99,
+    "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-f/1c/95/73/89/pizza-tedesca.jpg"
+  },
+  {
+    "id": 36,
+    "rating": 5,
+    "title": "Tirolese",
+    "price": 20.50,
+    "imageUrl": "https://lastmen.ru/wp-content/uploads/2022/07/pitstsa-tirolskaya.jpg"
+  },
+  {
+    "id": 37,
+    "rating": 1,
+    "title": "Boscaiola",
+    "price": 16.95,
+    "imageUrl": "https://lastmen.ru/wp-content/uploads/2022/07/pitstsa-bismark.jpg"
+  },
+  {
+    "id": 38,
+    "rating": 5,
+    "title": "Campagnola",
+    "price": 14.9,
+    "imageUrl": "https://guide.pizza/wp-content/uploads/2022/12/Campagnola-Pizza-958x575.jpg"
+  },
+  {
+    "id": 39,
+    "rating": 3,
+    "title": "Vegetariana",
+    "price": 21.00,
+    "imageUrl": "https://lastmen.ru/wp-content/uploads/2022/07/pitstsa-vegetarianskaya.jpg"
+  },
+  {
+    "id": 40,
+    "rating": 3,
+    "title": "Bufalina",
+    "price": 15.00,
+    "imageUrl": "https://loungecafeitaliano.com/wp-content/uploads/2020/11/pizza-bufalina-600x400.jpg"
+  },
+  {
+    "id": 41,
+    "rating": 4,
+    "title": "Fontana",
+    "price": 10.00,
+    "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-s/0c/8a/70/2c/pizzeria-fontana.jpg"
+  },
+  {
+    "id": 42,
+    "rating": 4,
+    "title": "Francescana",
+    "price": 33.00,
+    "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-l/13/44/50/49/pizzeria-lucignolo-1.jpg"
+  },
+  {
+    "id": 43,
+    "rating": 3,
+    "title": "Pizza tartufata",
+    "price": 45.00,
+    "imageUrl": "https://lastmen.ru/wp-content/uploads/2022/07/pitstsa-tart-flambe-864x400.jpg"
+  },
+  {
+    "id": 44,
+    "rating": 2,
+    "title": "Tricolore",
+    "price": 10.99,
+    "imageUrl": "https://lastmen.ru/wp-content/uploads/2022/07/trikolor.jpg"
+  },
+  {
+    "id": 45,
+    "rating": 1,
+    "title": "Valdostana",
+    "price": 16.00,
+    "imageUrl": "https://lastmen.ru/wp-content/uploads/2022/07/valle-daosta.jpg"
+  },
+  {
+    "id": 46,
+    "rating": 1,
+    "title": "Caprese",
+    "price": 10.99,
+    "imageUrl": "https://lastmen.ru/wp-content/uploads/2022/07/pitstsa-kapreze.jpg"
+  },
+  {
+    "id": 47,
+    "rating": 2,
+    "title": "Fiori di zucca",
+    "price": 15.00,
+    "imageUrl": "https://lastmen.ru/wp-content/uploads/2022/07/s-tsvetkami-tykvy.jpg"
+  },
+  {
+    "id": 48,
+    "rating": 4,
+    "title": "Bismarck",
+    "price": 18.05,
+    "imageUrl": "https://lastmen.ru/wp-content/uploads/2022/07/pitstsa-bismark.jpg"
+  },
+  {
+    "id": 49,
+    "rating": 3,
+    "title": "Funghi",
+    "price": 5.20,
+    "imageUrl": "https://e3.edimdoma.ru/data/recipes/0004/3162/43162-ed4_wide.jpg"
+  },
+  {
+    "id": 50,
+    "rating": 4,
+    "title": "Mimosa",
+    "price": 16.00,
+    "imageUrl": "https://lastmen.ru/wp-content/uploads/2022/07/pitstsa-mimoza-1024x768.jpg"
+  }
+]
